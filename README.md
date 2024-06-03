@@ -5,4 +5,5 @@
 - REPOSITORIO LABORATORIOS OFICIALES: https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/
 
 ## CONTENIDOS
-- IMPORT VS DIRECT QUERY: https://vandalytic.com/tutorial-power-bi-importar-vs-direct-query-live/
+- https://vandalytic.com/tutorial-power-bi-importar-vs-direct-query-live/
+- https://learn.microsoft.com/es-es/power-bi/transform-model/desktop-storage-mode
