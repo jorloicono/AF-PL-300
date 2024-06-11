@@ -36,22 +36,22 @@
 ### Diseñar e implementar un modelo de datos
 
 - Configurar propiedades de tablas y columnas
-- Implementar dimensiones realizadoras de roles
-- Definir la cardinalidad de una relación y la dirección del filtro cruzado
-- Creación de una tabla de fechas común
+- Implementar dimensiones realizadoras de roles: https://learn.microsoft.com/es-es/power-bi/guidance/star-schema
+- Definir la cardinalidad de una relación y la dirección del filtro cruzado: https://learn.microsoft.com/es-es/power-bi/guidance/relationships-bidirectional-filtering
+- Creación de una tabla de fechas común: https://learn.microsoft.com/es-es/power-bi/guidance/model-date-tables
 - Implementar roles de seguridad de nivel de fila: https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple
 
 
 ### Crear cálculos de modelos mediante DAX
 
-- Crear medidas de agregación únicas
+- Crear medidas de agregación únicas: https://biist.pro/diferencia-columna-calculada-medida-power-bi-cual-deberias-usar-y-porque
 - Usar CALCULATE para manipular filtros: https://interactivechaos.com/es/manual/tutorial-de-dax/contexto-de-fila-0
-- Implementar medidas de inteligencia de tiempo
-- Identificar medidas implícitas y reemplazar por medidas explícitas
-- Usar funciones estadísticas básicas
-- Creación de medidas de suma parcial
-- Crear una medida mediante medidas rápidas
-- Crear tablas calculadas
+- Implementar medidas de inteligencia de tiempo: https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/creating-time-intelligence-functions-in-dax/
+- Identificar medidas implícitas y reemplazar por medidas explícitas: https://powerbibogota.wordpress.com/2021/05/07/powerbi-calculos-o-medidas-implicitas-y-explicitas/
+- Usar funciones estadísticas básicas: https://learn.microsoft.com/es-es/dax/statistical-functions-dax
+- Creación de medidas de suma parcial: https://www.linkedin.com/pulse/medidas-semi-aditivas-dax-miguel-angel-franco-garc%C3%ADa/
+- Crear una medida mediante medidas rápidas: https://powerbisp.com/paso-a-paso-para-analizar-y-crear-una-medida-compleja-en-dax-desmitificando-calculate
+- Crear tablas calculadas: https://aglaia.es/blog/power-bi/crear-una-tabla-calculada-en-power-bi/
 
 ### Optimizar el rendimiento del modelo
 
