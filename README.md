@@ -55,9 +55,9 @@
 
 ### Optimizar el rendimiento del modelo
 
-- Mejorar el rendimiento mediante la identificación y eliminación de filas y columnas innecesarias
-- Identificar medidas, relaciones y objetos visuales con un rendimiento deficiente mediante el Analizador de rendimiento
-- Mejorar el rendimiento mediante la elección de tipos de datos óptimos
+- Mejorar el rendimiento mediante la identificación y eliminación de filas y columnas innecesarias: https://vandalytic.com/trucos-para-mejorar-el-rendimiento-de-tus-informes-de-power-bi/
+- Identificar medidas, relaciones y objetos visuales con un rendimiento deficiente mediante el Analizador de rendimiento: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer
+- Mejorar el rendimiento mediante la elección de tipos de datos óptimos: https://vandalytic.com/trucos-para-mejorar-el-rendimiento-de-tus-informes-de-power-bi/
 - Mejorar el rendimiento mediante el resumen de datos
 
 ## Visualizar y analizar los datos (25-30 %)
