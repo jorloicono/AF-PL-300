@@ -59,3 +59,65 @@
 - Identificar medidas, relaciones y objetos visuales con un rendimiento deficiente mediante el Analizador de rendimiento
 - Mejorar el rendimiento mediante la elección de tipos de datos óptimos
 - Mejorar el rendimiento mediante el resumen de datos
+
+## Visualizar y analizar los datos (25-30 %)
+
+### Crear informes
+
+- Identificar e implementar visualizaciones adecuadas
+- Formato y configuración de visualizaciones
+- Usar un objeto visual personalizado
+- Aplicar y personalizar un tema
+- Configuración del formato condicional
+- Aplicar criterios de segmentación y filtrado
+- Configurar la página del informe
+- Usar la característica Analizar en Excel
+- Elegir cuándo usar un informe paginado
+
+### Mejorar los informes para la facilidad de uso y la narración
+
+- Configurar marcadores
+- Crear información personalizada sobre herramientas
+- Editar y configurar interacciones entre objetos visuales
+- Configurar la navegación de un informe
+- Aplicar ordenación
+- Configurar segmentaciones de sincronización
+- Agrupar y superponer objetos visuales mediante el panel Selección
+- Explorar en profundidad los datos mediante objetos visuales interactivos
+- Configurar la exportación del contenido del informe y realizar una exportación
+- Diseñar informes para dispositivos móviles
+- Habilitación de objetos visuales personalizados en un informe
+- Diseño y configuración de informes accesibles de Power BI
+
+### Identificar patrones y tendencias
+
+- Usar la característica Analizar en Power BI
+- Usar la agrupación, la discretización y la agrupación en clústeres
+- Incorporar la característica Preguntas y respuestas en un informe
+- Uso de objetos visuales de IA
+- Usar líneas de referencia, barras de error y previsión
+- Detectar valores atípicos y anomalías
+- Crear y compartir cuadros de mandos y métricas
+
+## Implementar y mantener elementos (15–20 %)
+
+### Crear y administrar áreas de trabajo y recursos
+
+- Crear y configurar un área de trabajo
+- Asignación de roles de área de trabajo
+- Configurar y actualizar una aplicación de área de trabajo
+- Publicación, importación o actualización de elementos en un área de trabajo
+- Crear paneles
+- Elegir un método de distribución
+- Aplicar etiquetas de confidencialidad al contenido del área de trabajo
+- Configurar suscripciones y alertas de datos
+- Promover o certificar contenido de Power BI
+- Administrar opciones globales para archivos
+
+### Administración de modelos semánticos
+
+- Identificar cuándo se requiere una puerta de enlace
+- Configuración de una actualización programada de modelo semántico
+- Configurar la pertenencia a grupos de seguridad de nivel de fila
+- Proporcionar acceso a los modelos semánticos
+- Configuración de la actualización automática de páginas
